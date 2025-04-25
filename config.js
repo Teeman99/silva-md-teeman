@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "254743706010"
+const ownervb = process.env.OWNERS || "263785824469"
 
 
 const ownerlist = ownervb.split(';');
@@ -71,8 +71,8 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'silva'
-global.author = 'silva'
+global.packname = 'TEEMAN'
+global.author = '💚TEEMAN💚'
 global.menuvid = ''
 global.igfg = ''
 global.dygp = ''
@@ -82,11 +82,11 @@ global.fgpyp = 'https://youtube.com/@silvaedits254'
 global.fglog = ''
 global.thumb = fs.readFileSync('./jusorts/sylivanus.jpg')
 
-global.wait = '*⌛ _SILVA MD ANALYSING..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _LIL"SMOKEY IS ANALYSING..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌'
+global.done = 'LIL"SMOKEY HAS FINISHED FOR YOU✅'
+global.error = 'LIL"SMOKEY COULDNT PROCESS ❌'
 global.xmoji = '🔥'
 
 global.multiplier = 69
